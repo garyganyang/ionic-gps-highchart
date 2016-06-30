@@ -8,3 +8,4 @@
 
 
 # Screenshot #
+ ![](https://github.com/garyganyang/ionic-gps-highchart/blob/master/thumb.jpg)
