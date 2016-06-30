@@ -1,0 +1,10 @@
+<ion-view view-title="Browse">
+  <ion-content>
+    <h1>Browse</h1>
+    <button on-hold="onHold()"on-release="onRelease()" class="button">按住录音</button>
+    <button ng-click="play()"  class="button" ng-show="bofang">点击播放</button>
+
+    <button  ng-click="startTime()"  class="button">startTime</button>
+{{showtime}}
+  </ion-content>
+</ion-view>
